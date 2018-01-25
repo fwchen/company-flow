@@ -58,6 +58,7 @@
                                 js2-mode
                                 js2-jsx-mode
                                 web-mode
+                                react-mode
                                 )
   "List of major modes where company-flow will be providing completions."
   :type '(choice (const :tag "All" nil)
